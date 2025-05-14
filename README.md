@@ -112,8 +112,7 @@ We welcome contributions! Here's how you can help:
 - **Authentication:** JWT (JSON Web Tokens)
 - **Deployment:** [Optional] AWS / Vercel / Netlify / Heroku
 
-## 📄 License
-This project is licensed under the **MIT License**.
+
 
 ## 🙌 Acknowledgments
 Special thanks to the contributors and the MERN community for their valuable support.
